@@ -1,0 +1,39 @@
+image CoD
+
+Modes de jeux permanents
+	Classique:
+		Le mode BR Classique est la version standard du Battle Royal WARZONE. Vous êtes parachuté sur la map de
+                VERDANSK et vous devez survivre pour faire Top 1. Pour cela, vous devrez dans un premier temps gagner votre
+                spawn (car d'autres équipes vont probablement aller au mêmes endroits que vous) et amasser un maximum d'argent
+                afin de pouvoir acheter votre colis stratégique et d'autres équipements présents dans les shops.
+                Une fois fait, vous pourrez:
+			Aller à l'assault des autres équipes si vous aimez le combat pur et dur.
+			Jouer le positionnement dans les bâtiments en attendant que les autres teams viennent à vous dans ce cas
+			vous n'aurez qu'à les tuer.
+		Pour gagner, seul votre (def skill) skill et votre chance vous permettrons de gagner la partie ou non.
+
+	Pillage: Argent sale
+		Ce mode de jeu est très simple. En effet, vous êtes parachuté sur la Map de VERDANSK, aucune zone n'est
+                présente durant l'intégralité de la partie vous laissant accès à toute la carte, et vous devez:
+			Récupérer le maximum d'argent possible en les ramassant par terre, dans des caisses et en faisant des contrats
+			afin d'atteindre 1 million de dollars et de le sécuriser en appelant un hélicoptère ce qui vous permettra de gagner.
+			Jouer les kills et les contrats pour gagner beaucoup d'expérience et d'améliorer vos armes.
+		En début de partie, vous pourrez choisir une de vos classes que vous aurez préalablement créés mais nous en reparlerons plus tard.
+
+Modes de jeux éphémères
+	Mini royal renaissance en quatuor
+		Ce mode de jeu se déroule sur la petite map de Rebirth Island avec 10 teams de 4 joueurs. Du fait de la petite taille de la carte, les combats
+                sont nombreux. Si vous souhaitez un mode de jeu pour vous battre sans arrêts, c'est le mode de jeux qu'il voys faut. Les règles du <i>Mini royal</i> 
+                sont les mêmes que pour le <i>Classique</i>:
+			Aller à l'assault des autres équipes si vous aimez le combat pur et dur.
+			Jouer le positionnement dans les bâtiments en attendant que les autres teams viennent à vous dans ce cas
+			vous n'aurez qu'à les tuer.
+
+	Résurgence en solo </h3>
+		Parachuté sur Verdansk, vous devez tuer et piller comme en <i>Classique</i> a la petite différence que dans ce mode de jeux vous pouvez être redéployé si vous avez 4500$ sur vous. 
+
+	Résurgence en duo / trio / quatuor
+		Parachuté sur Verdansk, vous devez tuer et piller comme en <i>Classique</i> a la petite différence que dans ce mode de jeux vous pouvez être redéployé gratuitement
+            	tant qu'au moins un de vos coéquipiers est en vie. Le but du jeu est donc d'arriver a tuer tous les joueurs de chaques équipes ennemis pour éviter qu'ils se redéploient.
+            	Si vous ne les tuez pas tous, le(s) joueur(s) toujours en vie fuira/ont probablement afin de permettre a son équipe de revenir sur le champs de bataille. La dernière 
+            	équipe en vie gagne.

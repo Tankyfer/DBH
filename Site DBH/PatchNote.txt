@@ -1,0 +1,139 @@
+﻿Nicolas 08/09/21
+
+-CSS	Changement nom body page principale
+	Création des styles de la page warzone
+	a -> lightslategray (j'ai pas réussi a le mettre que pour mes pages faut que tu m'aide)
+	a:hover -> grey (j'ai pas réussi a le mettre que pour mes pages faut que tu m'aide)
+-PW	Création de la page sous le model de la PP
+	Centrage du titre et du menu nav :-)
+-PP	modiffication nom class body après le changement de nom dans le CSS
+
+
+
+Mathys 24/08/2021-
+
+- Résolution d'un soucis de format
+- Ajout de pages (toutes)
+- Mise en forme images page principale
+- Création page Contact
+- Ajout de modif style pour toutes les pages
+
+
+Mathys 23/08/2021-
+
+- Refonte totale page principale
+- Grosse modif page CSS
+- Mise en oeuvre des choco-cookies
+
+
+Mathys 22/08/2021-
+
+- Ajout d'un meta pour ajuster a tout type d'appareils 
+- Ajout d'un onglet contact + ajout d'icone 
+- Ajout section qui sommes nous ?
+- Correction de petit bug sur le CSS
+- Eat cookies.
+
+
+
+Mathys 19/08/2021-
+
+-> Change name css file to Index.css > Style.css
+-> Update main page (Text in main changed)
+-> Added a "last update" in main page (left top in blue color)
+-> Eat cookies
+
+Nicolas 19/08/2021
+
+-Page WARZONE:
+	-Modification de texte
+
+-Page Modes de jeux:
+	-Modification de texte
+
+-index.css
+	-Changement couleur .link
+	-Changement couleur a:hover
+	-Ajout .sectionwzmdj6
+
+
+
+
+
+Mathys 29/01/2021 -
+
+-Page principale :
+
+Ajout de la section1
+Ajout d'une nouvelle GATE dans navigations (a mettre en forme)
+Résolution navigation float 
+
+-Index : 
+Ajout quelques modifications pour la section
+Rangement par catégorie les différentes sections (wz, wzmdj, pp)
+
+
+
+
+
+
+Nicolas -22/01/2021-
+
+-Dossier images:
+	-Ajout "Activision"
+	-Ajout "raven"
+	-Ajout "Verdansk"
+	-Ajout "Call of Duty"
+	-Supression "map Warzone"
+
+-Page WARZONE:
+	-Remplassement image "https://tse3.mm.bing.net/th?id=OIP.29x3w1YT0Zv7AlyqCxYE0gHaBl&pid=Api" --> "raven"
+	-Remplassement image "https://tse3.mm.bing.net/th?id=OIP.x7TFwoKL9m3pcuyREM68LgHaB2&pid=Api" --> "Activision"
+	-Remplacement (l.101)"https://tse2.mm.bing.net/th?id=OIP.-tOIULXP3KQD4YCQSofwUQHaHa&pid=Api" --> "Verdansk"
+	-Remplacement (l.106)"map Warzone" --> "Rebirth island"
+	-Ajout "title" à chaque images sauf .headerwz
+	-Modif paragraphe "Modes de jeux"
+		-Supression partie "Redéploiement BR en Duo"
+		-Modif "Mini royal renaissance en solo" --> "Mini royal renaissance en quatuor"
+		-Modif "Résurgence en quatuor" --> "Résurgence en duo"
+		-Modif "Pillage en trio" --> "Pillage: Argent sale"
+
+-Page Modes de jeux:
+	-Remplassement image "https://tse4.mm.bing.net/th?id=OIP.H-FPTTVNkiRE1fDD0dFhPwHaBb&pid=Api" --> "Call of Duty"
+	-URL "skill" mis a jour
+	-Changements mise en page
+	-Supression partie "Redéploiement BR en Duo"
+	-Modif "Mini royal renaissance en solo" --> "Mini royal renaissance en quatuor"
+	-Modif "Résurgence en quatuor" --> "Résurgence en duo"
+	-Modif "Pillage en trio" --> "Pillage: Argent sale"
+	-Ecriture paragraphe "Mini royal en quatuor"
+	-Ecriture paragraphe "Résurgence en duo""
+
+-index.css
+	-Remplassement image .bodywz "https://sm.mashable.com/mashable_pk/post/c/call-of-du/call-of-duty-warzone-is-here-get-modern-warfare-on-sale-to-p_fcsq.png" --> "bodywz"
+	-Remplassement image .body1 "https://wallpaperaccess.com/full/733839.jpg" --> "fond"
+	-Remplassement image .headerwz "https://tse3.mm.bing.net/th?id=OIP.x7TFwoKL9m3pcuyREM68LgHaB2&pid=Api" --> "Activision"
+	-.sectionwzmdj1
+		height 1040px --> 460px
+	-.sectionwzmdj2
+		height 550px --> 450px
+	-.sectionwz3
+		height 600px --> 590px
+	-Création .sectionwzmdj0 / .sectionwzmdj3 / .sectionwzmdj4 / .sectionwzmdj5
+	-.sectionwz4
+		height 450px --> 360px
+	-.sectionwz5
+		height 450px --> 290px
+
+
+
+
+
+Mathys-21/01/2021-
+
+-Modification nom de nav. 
+-Modification nom titre page principale.
+-Ajout section "à remplir" page principale.
+-Modification index.css (pph1) modification size right left / size 60px > > 40px.
+-Correction de fautes d'orthographes / codes.
+-Ajout d'une ligne mode de jeux éphémère.
